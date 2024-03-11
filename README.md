@@ -1,4 +1,5 @@
-# Social-Media-backend  # SVG-Logo-Maker
+# Social-Media-backend 
+### This is an example of using MongoDB as a database for a social media site 
 
   ## Table of Contents
   ### * [Installation](#installation)
